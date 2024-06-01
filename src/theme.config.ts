@@ -2,15 +2,15 @@ export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
   title: "小卡",
   /** your name */
-  author: "xiaoka",
+  author: "一周是一年的2%",
   /** website description */
-  desc: "Rediscory the beauty of typography",
+  desc: "一周是一年的2%",
   /** your deployed domain */
   website: "https://xiaoka.online",
   /** your locale */
   locale: "zh-cn",
   /** theme style */
-  themeStyle: "light",
+  themeStyle: "auto",
   /** your socials */
   socials: [
     {
