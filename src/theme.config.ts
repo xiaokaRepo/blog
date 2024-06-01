@@ -1,38 +1,34 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "活版印字",
+  title: "小卡",
   /** your name */
-  author: "Typography",
+  author: "xiaoka",
   /** website description */
   desc: "Rediscory the beauty of typography",
   /** your deployed domain */
-  website: "https://astro-theme-typography.vercel.app/",
+  website: "https://xiaoka.online",
   /** your locale */
-  locale: "en-us",
+  locale: "zh-cn",
   /** theme style */
   themeStyle: "light",
   /** your socials */
   socials: [
     {
       name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/xiaokaRepo",
     },
     {
       name: "rss",
       href: "/atom.xml",
     },
     {
-      name: "twitter",
-      href: "https://github.com/moeyua/astro-theme-typography",
-    },
-    {
-      name: "mastodon",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      name: "wechat",
+      href: "https://r2.6490958.xyz/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.JPG",
     }
   ],
   /** your header info */
   header: {
-    twitter: "@moeyua13",
+    wechat: "@xiaoka",
   },
   /** your navigation links */
   navs: [
@@ -55,13 +51,13 @@ export const THEME_CONFIG: App.Locals['config'] = {
   ],
   /** your category name mapping, which the `path` will be shown in the url */
   category_map: [
-    { name: "胡适", path: "hu-shi" },
+    { name: "小卡", path: "xiao-ka" },
   ],
   /** your comment provider */
   comments: {
-    disqus: {
-      shortname: "typography-astro",
-    },
+    // disqus: {
+    //   shortname: "typography-astro",
+    // },
     // giscus: {
     //   repo: 'moeyua/astro-theme-typography',
     //   repoId: 'R_kgDOKy9HOQ',
