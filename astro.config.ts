@@ -4,9 +4,6 @@ import { THEME_CONFIG } from "./src/theme.config";
 import robotsTxt from "astro-robots-txt";
 import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
-import remarkExternalLinks from 'remark-external-links';
-import rehypeExternalLinks from 'rehype-external-links';
-
 // https://astro.build/config
 export default defineConfig({
   site: THEME_CONFIG.website,
@@ -16,10 +13,7 @@ export default defineConfig({
       theme: 'one-dark-pro',
       langs: [],
       wrap: true,
-    },
-    rehypePlugins: [
-      [rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }]
-    ]
+    }
   },
   integrations: [
     UnoCSS({
