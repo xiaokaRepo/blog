@@ -1,8 +1,8 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "小卡",
+  title: "一周是一年的2%",
   /** your name */
-  author: "一周是一年的2%",
+  author: "xiaoka",
   /** website description */
   desc: "一周是一年的2%",
   /** your deployed domain */
