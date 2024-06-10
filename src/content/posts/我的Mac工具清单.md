@@ -120,6 +120,12 @@ brew list
 ### 7、<a href="https://zipic.5km.tech/#home">压图</a>
 ![alt text](/images/CleanShot2024-06-02at16.05.15-zipic.png)
 
+### 8、<a href="https://icemenubar.app">菜单栏工具</a>
+![alt text](https://github.com/jordanbaird/Ice/raw/main/Resources/rearranging.gif)
+
+```bash
+brew install jordanbaird-ice
+```
 
 ## 开发工具
 
@@ -158,7 +164,14 @@ vfox use -g nodejs
 
 ## 网页插件
 
-//待补充
+### 1、<a href="https://kaylees.site/index.html">Wipr</a>
+![wipr](https://xiaoka-blog.s3.bitiful.net/blog/2024/06/af4e0418eac014dca9ed8fce0ba6965b.png)
+
+### 2、<a href="">沉浸式翻译</a> 
+![https://apps.apple.com/cn/app/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91safari%E6%89%A9%E5%B1%95/id6447957425](https://xiaoka-blog.s3.bitiful.net/blog/2024/06/b4211b978154b8da1ba8484c82b6b6e4.png)
+
+### 3、<a href="https://apps.apple.com/cn/app/tampermonkey/id1482490089?mt=12">tampermonkey</a>
+![](https://xiaoka-blog.s3.bitiful.net/blog/2024/06/1cdc19480a277f4498942a12d61fe8db.png)
 
 ## 其他配置项
 
